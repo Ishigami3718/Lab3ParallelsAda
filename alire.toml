@@ -1,0 +1,10 @@
+name = "lab3"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Leshchenko Rostyslav"]
+maintainers = ["Leshchenko Rostyslav <rostishkaleschenko2006@gmail.com>"]
+maintainers-logins = ["ishigami3718"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
